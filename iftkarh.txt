@@ -7,7 +7,6 @@
 		cursor: pointer;
 		text-decoration: none;
 		float: left;
-		transition: color 300ms ease-in-out 0s, background-color 300ms ease-in-out 0s, background-position 300ms ease-in-out 0s;
 		border: 1px solid #fff;
 		font-weight: bold;
 		text-transform: uppercase;
